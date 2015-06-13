@@ -1,2 +1,2 @@
 # HPI
-Data products project
+Data products - Course project 
